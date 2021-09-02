@@ -1,7 +1,7 @@
-# repo-tema1-darbs
+ï»¿# repo-tema1-darbs
 
-### izmaiòas saskaòâ ar 1 uzdevumu
-* izmaiòas sâktas
-*  **izmaiòas beigtas**
+### izmaiÅ†as saskaÅ†Ä ar 1 uzdevumu
+* izmaiÅ†as sÄktas
+*  **izmaiÅ†as beigtas**
 
-> versija 1.0 izmaiòas
+> versija 1.0 izmaiÅ†as
